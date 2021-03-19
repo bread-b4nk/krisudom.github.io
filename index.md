@@ -1,8 +1,11 @@
-## Welcome to GitHub Pages
+## Chavin (Kris) Udomwongsa
 
-You can use the [editor on GitHub](https://github.com/krisudom/krisudom.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
+# Contact
+- +66 84 439 4505
+- krisudomwongsa@gmail.com
+- [LinkedIn](https://www.linkedin.com/in/chavin-kris-udomwongsa-21288a1b2)
+- [GitHub](https://github.com/krisudom)
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
 ### Markdown
 
